@@ -1,0 +1,6 @@
+/dist
+/.idea
+*.o
+*.so
+*.hi
+*_stub.h
