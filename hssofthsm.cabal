@@ -16,7 +16,10 @@ library
     Include-dirs: include
     c-sources: export.c
     build-depends:
-        base
+        base,
+        hashable,
+        cryptohash,
+        bytestring
     exposed-modules:
         System.Crypto.SoftHsm
     Default-language:  Haskell2010

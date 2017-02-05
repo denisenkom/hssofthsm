@@ -4,3 +4,6 @@
 *.so
 *.hi
 *_stub.h
+*.chi
+*.chs.h
+/System/Crypto/Pkcs11Imports.hs
